@@ -37,7 +37,7 @@ function App() {
   return (
     <div className="container">
       <form onSubmit={handleSubmit} className="form">
-        <h1>Create User</h1>
+        <h1>Create</h1>
 
         <input
           type="text"
